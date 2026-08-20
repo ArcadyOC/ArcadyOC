@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,8B5CF6,6366F1,A78BFA&section=header&text=сначала%20проверяем&fontAlign=50&fontSize=36&fontColor=FFFFFF&desc=потом%20торгуем&descAlign=50&descSize=18&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&customColorList=12,8B5CF6,6366F1,A78BFA&section=header&text=%D0%9A%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20%D0%B8%D0%B4%D0%B5%D1%8F%20-nl-%20%D0%B5%D1%89%D1%91%20%D0%BD%D0%B5%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%8F&fontAlign=50&fontAlignY=42&fontAlignY=58&fontSize=28&fontColor=FFFFFF&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=%D0%98%D0%B4%D0%B5%D1%8F+%D0%BD%D0%B0+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8.+%D0%9F%D0%BE%D1%82%D0%BE%D0%BC+%D0%BD%D0%B0+%D1%81%D1%87%D1%91%D1%82%D0%B5.;%D0%A1%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0+%D1%86%D0%B8%D1%84%D1%80%D1%8B.+%D0%9F%D0%BE%D1%82%D0%BE%D0%BC+%D0%B2%D1%85%D0%BE%D0%B4.;%D0%9A%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F+%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%8F+%E2%80%94+%D0%B5%D1%89%D1%91+%D0%BD%D0%B5+%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=22&duration=3500&pause=900&color=4C1D95&center=true&vCenter=true&width=680&lines=%D0%9A%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20%D0%B8%D0%B4%D0%B5%D1%8F%20%E2%80%94%20%D0%B5%D1%89%D1%91%20%D0%BD%D0%B5%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%8F.;%D0%98%D0%B4%D0%B5%D1%8F%20%D0%BD%D0%B0%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8.%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D1%81%D1%87%D1%91%D1%82%D0%B5.;%D0%A1%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0%20%D1%86%D0%B8%D1%84%D1%80%D1%8B.%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BC%20%D0%B2%D1%85%D0%BE%D0%B4." alt="typing" />
 </p>
 
-# Сначала проверяем. Потом торгуем.
+# Красивая идея — ещё не готовая стратегия.
 
 Я автоматизирую **проверку торговых стратегий** до того, как они касаются живого счёта.
 
@@ -44,5 +44,5 @@
 Напишите. Разберём, выдерживает ли она тест — до первой сделки.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=12,8B5CF6,6366F1,A78BFA&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=gradient&customColorList=12,8B5CF6,6366F1,A78BFA&section=footer" alt="footer" />
 </p>
