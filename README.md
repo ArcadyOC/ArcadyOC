@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/MetaTrader%205-6D28D9?style=flat-square" alt="MetaTrader 5" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/mary_iiprovodnik"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <p align="center">
@@ -36,11 +36,10 @@
 - Трейдеру, который устал спорить с рынком «на глаз»
 - Тому, у кого стратегия «в голове работает», а на счёте — нет
 - Тому, кто хочет **систему вместо интуиции**
-- Тому, кто устал сидеть сутками за графиками
 
 ---
 
 <p align="center">
   <b>Есть стратегия, которую хочется сначала спокойно проверить?</b><br>
-  Напишите — разберём, выдерживает ли она тест до первой сделки.
+  <a href="https://t.me/mary_iiprovodnik">Напишите в Telegram</a> — разберём, выдерживает ли она тест до первой сделки.
 </p>
